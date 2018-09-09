@@ -1,2 +1,5 @@
-print("Hello world")
-this is example blba bla
+
+def main(msg):
+    print(msg)
+
+main("Hello guys")
